@@ -38,4 +38,11 @@ comments, and other relevant activities. Allow users to customize their notifica
  - Provide users with insights into their account activity, including post reach, engagement metrics,
 and follower demographics. Implement analytics tools to track user interactions. 
 
+### HOW TO RUN THE PROJECT-
+⚡ Email me at **singhankitkumar334@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
 
+### Need Code, Documents & Explanation video ? 
+
+## How to Reach me :
+
+### Mail : singhankitkumar334@gmail.com
